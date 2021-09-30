@@ -9,7 +9,7 @@
 }
 
 body {  
-    background-color: #fff;
+    background-color: #ffffff;
     color: var(--primary-text-color) ;
     ;
     font-family: Roboto, sans-serif;
@@ -220,9 +220,9 @@ color: #757575;
   margin-left: 50px;
 }
 
-.auth-low .post,
+.auth-low
 .number {  
-   color: rgba(255, 255, 255, 0,6);
+   color: rgba(255, 255, 255, 0.6);
    text-decoration: none;
 }
 
