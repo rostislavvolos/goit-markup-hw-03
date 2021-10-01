@@ -223,15 +223,15 @@ color: #757575;
   margin-left: 50px;
 }
 
-.auth-low
+.footer
 .number {  
    color: rgba(255, 255, 255, 0.6);
    text-decoration: none;
 }
 
-.auth-low .post,
+.footer .post,
 .number:hover,
-.auth-low .post,
+.footer .post,
 .number:focus {
    color: var(--accent-color); 
 }
@@ -405,7 +405,7 @@ color: var(--title-text-color);
 
 }
 
-.auth-low {
+.footer {
   background-color: var(--dark-backgroung);
 }
 
@@ -531,6 +531,9 @@ color: var(--accent-color);
 
 }
 
+.footer {
+  padding: 60px 0 60px 0;
+}
 
 
 .portfolio-address {
